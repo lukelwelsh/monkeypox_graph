@@ -2,4 +2,4 @@
 Graphing the spread of Monkeypox around the world
 
 
-video does not render in on ipynb, enjoy the finished product under: monkeypox.mp4
+video does not render in on ipynb, enjoy the finished product under: monkeypox_video.mp4
